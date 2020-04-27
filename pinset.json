@@ -1,0 +1,9 @@
+{
+  "domains": {
+    "*.diasoft.ru": {
+      "pins": [
+        "sha256/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      ]
+    }
+  }
+}

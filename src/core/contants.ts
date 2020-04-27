@@ -1,0 +1,1 @@
+export const DEFAULT_CAPTCHA_KEY = 'eefd04b917c0e704866e7d52fc710099';

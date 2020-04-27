@@ -1,0 +1,10 @@
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">websigma.diasoft.ru</domain>
+        <trust-anchors>
+            <certificates src="@raw/websigma"/>
+        </trust-anchors>
+    </domain-config>
+</network-security-config>
+
