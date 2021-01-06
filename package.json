@@ -18,7 +18,7 @@
     "@react-navigation/material-bottom-tabs": "^5.1.9",
     "@react-navigation/native": "^5.1.6",
     "@react-navigation/stack": "^5.2.13",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-cookiejar-support": "^1.0.0",
     "https": "^1.0.0",
     "lodash-es": "^4.17.15",
