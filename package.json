@@ -25,7 +25,7 @@
     "moment": "^2.24.0",
     "querystring": "^0.2.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-alarm-notification": "^1.4.5",
     "react-native-background-job": "^2.3.1",
     "react-native-background-timer": "^2.2.0",
