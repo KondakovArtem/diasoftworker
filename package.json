@@ -22,7 +22,7 @@
     "axios-cookiejar-support": "^1.0.0",
     "https": "^1.0.0",
     "lodash-es": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "querystring": "^0.2.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
